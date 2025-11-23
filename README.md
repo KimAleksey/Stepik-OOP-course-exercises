@@ -19,7 +19,7 @@
 ### 1. Клонирование проекта
 
 ```bash
-git clone https://github.com/username/project.git
+git clone https://github.com/KimAleksey/Stepik-OOP-course-exercises.git
 cd project
 ```
 
@@ -33,6 +33,8 @@ uv sync
 
 ```bash
 uv run exercise1.py
+uv run exercise2.py
+uv run exercise3.py
 ```
 
 ---
@@ -82,4 +84,4 @@ uv run pytest
 ## 📬 Контакты
 
 * Автор: **Ким Алексей**
-* GitHub: [https://github.com/yourname](https://github.com/yourname)
+* GitHub: https://github.com/KimAleksey
